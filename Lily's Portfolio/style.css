@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(153, 255, 127);
+    color:black;
+    background-attachment: fixed;
+
+}
+
+.main ul{
+    list-style-type:none;
+    background-color: aquamarine;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px 30px;
+    
+}
+
+.main ul li{
+    display: inline-flex;
+}
+
+.main ul li a{
+    color:black;
+    font-family:Serif ;
+    font-size: larger;
+    text-decoration: none;
+    margin: 0 0 0 4rem;
+}
+    
+.active, .main li :hover{
+    color: fuchsia;
+}
+
+.top ul{
+    background-color:rgb(255, 179, 0);
+    border-radius: 10px;
+    text-align: left;
+    list-style-type: none;
+    padding: 4px 7px;
+}
+
+.top ul li{
+    display: inline-flex;
+}
+
+.top ul li img{
+    width: 20px;
+    height: 15px;
+    padding: 5px 8px;
+
+}
+
+.intro{
+    font-size: larger;
+    text-align: center;
+
+}
+
+.blogs{
+    float: auto;
+    padding: 10px 30 px;
+    text-align: center;
+    margin: block;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
